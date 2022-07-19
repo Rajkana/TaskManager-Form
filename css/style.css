@@ -1,0 +1,73 @@
+
+*{
+    box-sizing: border-box;
+}
+h3{
+    margin:20px;
+    text-align: center;
+    color:darkgreen;
+   
+}
+    
+.btn-outline-success{
+    margin-left:10px;
+}
+.form-row{
+    margin-top:50px;
+}
+
+.row-date-status{
+    margin-top:20px;
+}
+
+.col-date{
+    width:30%;
+    display: inline-block;
+  
+}
+.status{
+    width:20%;
+    
+   display: inline-block
+}
+body{
+    margin:0;
+    background-image:url("https://mdbootstrap.com/img/Photos/Horizontal/Nature/full%20page/img(11).webp");
+    font-weight: bold;
+    
+}
+.row1{
+    margin-top:50px;
+}
+.btn-primary{
+    margin-top:20px;
+}
+
+.card-deck{
+    margin-top: 20px;
+   
+}
+.btn-info, .btn-outline-primary, .btn-sm, .btn-outline-info{
+    float:right;
+}
+
+
+.duedate{
+    float:right;
+    display: inline-flex;
+    font-size: 12px;
+    
+}
+.badge{
+    float:right;
+}
+.card-text-todo{
+    display:flex;
+    justify-content: space-between;
+   
+}
+.cardstyle{
+    background-color:rgb(233, 233, 247);
+    opacity: 0.8;
+    color:rgb(0, 11, 131)
+}
